@@ -1,2 +1,2 @@
-# nmngeblog
+# NMNgeblog
 Practicing simple website
