@@ -1,0 +1,2 @@
+# nmngeblog
+Practicing simple website
